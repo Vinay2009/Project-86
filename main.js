@@ -18,7 +18,8 @@ function new_image()
     });
 	
 }
-
+<button class="btn btn-warning btn-lg"
+onclick="playSound()">Dear Mom</button>
 function playSound(){
 	x.play();
 }
